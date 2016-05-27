@@ -1,0 +1,7 @@
+/build
+/configuration
+/src/main/libs
+/src/main/obj
+/src/main/res/values/config.xml
+app.iml
+ic_launcher.png

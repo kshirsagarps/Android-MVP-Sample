@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="loading_image_message">Please wait, loading images...</string>
+    <string name="error_model_change">Problem loading images, Please try later.</string>
+</resources>
